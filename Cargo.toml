@@ -1,5 +1,5 @@
 [package]
-name = "space-filling"
+name = "dragon-curve"
 version = "0.1.0"
 edition = "2024"
 
@@ -7,3 +7,4 @@ edition = "2024"
 image = "0.25.5"
 minifb = "0.28.0"
 tiny-skia = "0.11.4"
+glam = "0.30.1"
